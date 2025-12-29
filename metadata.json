@@ -1,0 +1,5 @@
+{
+  "name": "MCP Impactor: RL-Recommendation Engine",
+  "description": "A professional dashboard and testing suite for the RL-based Multi-Armed Bandit (MAB) Recommendation System MCP server. Monitor server status, generate personalized product recommendations, and simulate user feedback loops to train the reinforcement learning model.",
+  "requestFramePermissions": []
+}
